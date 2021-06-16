@@ -1,9 +1,11 @@
+import Layout from "../components/Layout"
+
 const AboutPage = () => {
   return (
-    <div>
+    <Layout title="Ujjwal Singh | Software Engineer">
       <h1>about</h1>
       <p>Software Professional | UI Developer focused in React ecosystem | Leadership | Startups</p>
-    </div>
+    </Layout>
   )
 }
 
